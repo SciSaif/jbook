@@ -17,7 +17,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsnote-scisaif/local-client": "^1.0.0"
+    "@jsnote-scisaif/local-client": "^0.1.0"
   },
   "devDependencies": {
     "@jsnote-scisaif/local-api": "^0.1.0",
